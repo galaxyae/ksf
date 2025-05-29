@@ -1,10 +1,4 @@
-/*--------------------------
-    Project Name: Allianz
-    Version: 1.0
-    Author: 7oorof
-    Developer: Ahmed Abdallah (a.abdallah999@gmail.com)
-    Release Date: April 2025
----------------------------*/
+
 
 /*---------------------------
       Table of Contents
